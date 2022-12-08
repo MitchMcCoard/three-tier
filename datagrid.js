@@ -2,6 +2,7 @@
 // You will get this URL when you publish your google apps script as a web app
 let prefix="https://script.google.com/macros/s/AKfycbwqsFOXVg3XOLO5aMlCqkYn4cOlbZWbq4bg_YElJ0Sk-DQtwUlnCQamFSQuEijDzua2Dg/exec" 
 // looks like: https://script.google.com/macros/s/AKfycbz90JgtbAjrjz8c8WQGjgy8kM2GtdCAulom8XWOQyGoeX8DXM5XsmUMAcSYSSyZwwNSLq/exec
+prefix = 'I"m broken'
 const dealy_seconds = 4 // how long data validation messages are visible
 
 //example call: file:///C:/Users/Gove/three-tier/datagrid.html?employee
