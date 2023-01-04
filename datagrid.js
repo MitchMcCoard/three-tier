@@ -1,6 +1,6 @@
 // URL to your production code when you publish your google app script as a web app
 // You will get this URL when you publish your google apps script as a web app
-let prefix="https://script.google.com/macros/s/AKfycbwqsFOXVg3XOLO5aMlCqkYn4cOlbZWbq4bg_YElJ0Sk-DQtwUlnCQamFSQuEijDzua2Dg/exec" 
+let prefix="https://script.google.com/macros/s/AKfycbz_4vrn35OLzOrHa71WVWs4fsHUyIjBYYOVzI-E4B_gZcqCHuQvB3wKgrIEs-e8Z8sYzg/exec" 
 // looks like: https://script.google.com/macros/s/AKfycbz90JgtbAjrjz8c8WQGjgy8kM2GtdCAulom8XWOQyGoeX8DXM5XsmUMAcSYSSyZwwNSLq/exec
 const dealy_seconds = 4 // how long data validation messages are visible
 
